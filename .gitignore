@@ -1,0 +1,10 @@
+# generated files
+.database.sqlite3
+airba.sh
+airbash
+crackdefault
+crackdefault.sh
+
+# generated directories
+.handshakes/
+.location/
